@@ -1,0 +1,7 @@
+transformer
+torch
+gttS
+Ipython.display(IPD)
+gradio
+openai
+whisper
